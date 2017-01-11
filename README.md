@@ -1,6 +1,6 @@
 # Code-School-Slides
 
-Act: All courses in November 2016 organized as paths
+Act: All courses in January 2017 organized as paths
 
 
 
@@ -102,7 +102,7 @@ Act: All courses in November 2016 organized as paths
 
 #### Getting Started With PHP
 - [Try PHP](http://courseware.codeschool.com/try_php/slides/CodeSchool-TryPHP.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/try_php/slides/CodeSchool-TryPHP.pdf)
-- Close Encounters With PHP
+- [Close Encounters With PHP](http://courseware.codeschool.com/close_encounters_with_php/slides/CodeSchool-CloseEncountersWithPHP.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/close_encounters_with_php/slides/CodeSchool-CloseEncountersWithPHP.pdf)
 
 
 
